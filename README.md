@@ -1,6 +1,6 @@
 
 # My-Profile
-![My Profile Picture](https://avatars.githubusercontent.com/u/79433517?v=4)
+![My Profile Picture](https://user-images.githubusercontent.com/88813149/129353279-0b35966c-aa8d-496d-b690-1c3ae43678b6.jpg)
 
 ## Stats
 ![FranChouG GitHub stats](https://github-readme-stats.vercel.app/api?username=FranChouG&show_icons=true&theme=radical)
